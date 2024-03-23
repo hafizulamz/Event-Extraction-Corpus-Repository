@@ -2,6 +2,7 @@
 - Dataset Name: The Materials Science Procedural Text Corpus
 - License: MIT Open Source License
 - Origin source: https://github.com/olivettigroup/annotated-materials-syntheses
+- Related paper: https://aclanthology.org/W19-4007/
 - Origin commit ID: dd6abd1
 - Archived on: 23 March 2024
 

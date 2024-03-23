@@ -2,6 +2,7 @@
 - Dataset Name: Chinese Financial Event Extraction (CFEE)
 - License: No license provided
 - Origin source: https://github.com/yanghang111/DCFEE
+- Related paper: https://aclanthology.org/P18-4009/
 - Origin commit ID: 5e39966
 - Archived on: 23 March 2024
 
